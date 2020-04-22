@@ -12,5 +12,8 @@
     "url": "No"
   },
   "author": "Akshaj Balaji",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
 }
